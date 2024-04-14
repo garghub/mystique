@@ -2,7 +2,7 @@
 
 The repo contains the data for the paper _Vulnerability Mimicking Mutants_.
 
-The paper is available here: [![Preprint](https://img.shields.io/badge/Paper-arXiv-blue)](https://draayushgarg.github.io/files/VulnerabilityMimickingMutants.pdf)
+The paper is available here: [![Preprint](https://img.shields.io/badge/Paper-blue.svg)](https://draayushgarg.github.io/files/VulnerabilityMimickingMutants.pdf)
 
 The bib entry for citing the paper is available here: [![Cite](https://img.shields.io/badge/Cite-BibTex-green.svg)](mystique.bib)
 
